@@ -1,3 +1,7 @@
+body {
+    background-color: #FFFFFF;
+}
+
 .main-cover {
     background: rgba(0, 0, 0, 0.5);
     /* opacity: 0.7; */
